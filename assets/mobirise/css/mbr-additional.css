@@ -2085,7 +2085,7 @@ a {
 .cid-svV1pEXXRu {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #d9b9ff;
 }
 @media (min-width: 992px) {
   .cid-svV1pEXXRu .text-wrapper {
@@ -2100,6 +2100,9 @@ a {
   .cid-svV1pEXXRu .image-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-svV1pEXXRu .mbr-text {
+  color: #000000;
 }
 .cid-svV0xltFDx {
   z-index: 1000;
@@ -2489,19 +2492,12 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-svV2duz9RP .bg-facebook {
-  background: #1778f2;
+.cid-svV2duz9RP .bg-pinterest {
+  background: #e60023;
   color: #ffffff;
 }
-.cid-svV2duz9RP .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-svV2duz9RP .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-svV2duz9RP .bg-twitter:hover {
-  background: #0c85d0;
+.cid-svV2duz9RP .bg-pinterest:hover {
+  background: #b3001b;
 }
 .cid-svV2duz9RP .bg-instagram {
   background: #f00075;
@@ -2509,6 +2505,13 @@ a {
 }
 .cid-svV2duz9RP .bg-instagram:hover {
   background: #bd005c;
+}
+.cid-svV2duz9RP .bg-slack {
+  background: #4a154b;
+  color: #ffffff;
+}
+.cid-svV2duz9RP .bg-slack:hover {
+  background: #230a23;
 }
 .cid-svV2duz9RP .iconfont-wrapper {
   display: inline-block;
